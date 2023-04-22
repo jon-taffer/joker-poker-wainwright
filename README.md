@@ -9,7 +9,7 @@ the idea was born few hours ago i got nobody to make it together with or for so 
 
 please note best prolly is to make close to solitaire experience, by making on win option to bet again, so it drags on or actual makes u 'hold' games, also to familiarize people, you could make games being able to shoe (like 3card poker) mixed in, or for example make it look more reconizable to solitaire for newer players by making 'holded games' (gamble/risk) actually stack cards overlayed on each other like (just showing suit/rank)
 
-## game screen
+## game flow (pre bonus/joker)
 ![](poker_game.png)
 
 
