@@ -12,7 +12,7 @@ please note best prolly is to make close to solitaire experience, by making on w
 keep players playing by making every game 'async', so players can decide to 'cash in' or out individual streets, this way also will keep players playing longer because they are prone to stay even after a very big win because they still are in other streets playing/active etc etc.
 
 //
-
+**bonuses**
 super jackpots (to go around legislation on max. multiplier payouts if to put in offline casino solution) can be based on hand rankings (get 3x flush spades in a row, win 5x in same street), but also and so on. 
 
 there is option to make 'increased jokers' for extra payment for each bet (similar to slotmachines that have a modifier to increase your chances on bonus game, you could for example make it so it places more jokers if a joker game is hit)
@@ -20,6 +20,9 @@ there is option to make 'increased jokers' for extra payment for each bet (simil
 you can make bonus buy game videopoker this way idem dito
 
 you can make multiplay/linked games like at my fav u.k. casino irl, where games currently are already beign played together in terms of roulette etc in dedicated section, it can be a good addition 
+
+
+Bonus game could be compared maybe with the classic "money bag" respin feature like in [this example](https://www.youtube.com/watch?v=N5kBoTXeCSk). As hitting jokers will continue the feature
 
 //
 
@@ -47,7 +50,7 @@ gif and a vid:
 
 #### __VERY IMPORTANT THIS IS ONLY PRE BONUS GAME, BUT IDEAS ARE ENDLESS__
 
-Bonus game could be compared maybe with the classic "money bag" respin feature like in [this example](https://www.youtube.com/watch?v=N5kBoTXeCSk). As hitting jokers will continue the feature
+
 
 #### from the makers of: Age of David
 [![Alt text](ageofdavid.png)](https://streamable.com/4zpzzy)
