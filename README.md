@@ -19,16 +19,15 @@ gif and a vid:
 
 ![example gif](example-animation.gif)
 
-
-Video in streaming service: [streamable](https://streamable.com/uglo8g)
-Video in here: [joker_david.webm](joker_david.webm)
+## Video in streaming service: [streamable](https://streamable.com/uglo8g) / local: [joker_david.webm](joker_david.webm)
 
 #### from the makers of: Age of David
 
-![dave](ageofdavid.png)
-
 Caesar David trailer:
 [streamable](https://streamable.com/4zpzzy) or [download .mp4](https://github.com/martijn-martens/memories/blob/main/caesardavid-2.mp4)
+
+![dave](ageofdavid.png)
+
 
 #### sponsored by
 soon available on the next amino ARIA and in every TAFFER venue!
