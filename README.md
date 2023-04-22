@@ -11,7 +11,16 @@ please note best prolly is to make close to solitaire experience, by making on w
 
 keep players playing by making every game 'async', so players can decide to 'cash in' or out individual streets, this way also will keep players playing longer because they are prone to stay even after a very big win because they still are in other streets playing/active etc etc.
 
-super jackpots (to go around legislation on max. multiplier payouts if to put in offline casino solution) can be based on hand rankings (get 3x flush spades in a row, win 5x in same street) and so on. also if david to re-use himself this game (i know he would never credit anyhow and pay money to me but regardless cause i refuse to be like him:) is to just re-use his playson branded character for the firejoker (i believe it was), it's used so much and is reconizable, also cause it's old mascot/character it is prone to be more of liking to the older gents that are more often going to be playing videopoker-esque opposed to trippywin kind of people
+//
+
+super jackpots (to go around legislation on max. multiplier payouts if to put in offline casino solution) can be based on hand rankings (get 3x flush spades in a row, win 5x in same street) and so on. 
+
+
+//
+
+also if david to re-use himself this game (i know he would never credit anyhow and pay money to me but regardless cause i refuse to be like him: is to just re-use his playson branded character for the firejoker, i believe it was).
+
+it's used so much and is reconizable, also cause it's old mascotte/character it is prone to be more of liking to the older gents that are more often going to be playing videopoker-esque opposed to trippywin kind of people
 
 
 
