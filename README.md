@@ -13,8 +13,13 @@ keep players playing by making every game 'async', so players can decide to 'cas
 
 //
 
-super jackpots (to go around legislation on max. multiplier payouts if to put in offline casino solution) can be based on hand rankings (get 3x flush spades in a row, win 5x in same street) and so on. 
+super jackpots (to go around legislation on max. multiplier payouts if to put in offline casino solution) can be based on hand rankings (get 3x flush spades in a row, win 5x in same street), but also and so on. 
 
+there is option to make 'increased jokers' for extra payment for each bet (similar to slotmachines that have a modifier to increase your chances on bonus game, you could for example make it so it places more jokers if a joker game is hit)
+
+you can make bonus buy game videopoker this way idem dito
+
+you can make multiplay/linked games like at my fav u.k. casino irl, where games currently are already beign played together in terms of roulette etc in dedicated section, it can be a good addition 
 
 //
 
