@@ -12,11 +12,22 @@ needs be fast asf, probably also hotkey instead of dragging card to acetraps/hol
 # screenshot
 ![](poker_game.png)
 
-# video (example animation)
+# example animation
+
+gif and a vid:
+
+
+![example gif](example_animation.gif)
+
+
 Video in streaming service: [streamable](https://streamable.com/uglo8g)
 Video in here: [joker_david.webm](joker_david.webm)
 
-#### from the makers of Caesar David
+#### from the makers of: Age of David
+
+![dave](ageofdavid.png)
+
+Caesar David trailer:
 [streamable](https://streamable.com/4zpzzy) or [download .mp4](https://github.com/martijn-martens/memories/blob/main/caesardavid-2.mp4)
 
 #### sponsored by
