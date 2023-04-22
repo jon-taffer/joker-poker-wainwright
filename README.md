@@ -17,7 +17,7 @@ needs be fast asf, probably also hotkey instead of dragging card to acetraps/hol
 gif and a vid:
 
 
-![example gif](example_animation.gif)
+![example gif](example-animation.gif)
 
 
 Video in streaming service: [streamable](https://streamable.com/uglo8g)
