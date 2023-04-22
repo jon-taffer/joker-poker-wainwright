@@ -7,7 +7,9 @@ though important to note that in similar way you can embed 'slot' mechanic withi
 
 the idea was born few hours ago i got nobody to make it together with or for so whatever but aslong base game is profitable (and it should be, because u are basically making it so people are holding whole games opposed to 3 cards & re-betting the win+initial bet by making incremental joker games, whilst adding an bonus adjecative to the game that should maybe interest younger crowds to start playing video poker more also)
 
-please note best prolly is to make real solitaire experience, by making on win option to bet again, so it drags on or actual makes u 'hold' games
+please note best prolly is to make close to solitaire experience, by making on win option to bet again, so it drags on or actual makes u 'hold' games, also to familiarize people, you could make games being able to shoe (like 3card poker) mixed in, or for example make it look more reconizable to solitaire for newer players by making 'holded games' (gamble/risk) actually stack cards overlayed on each other like (just showing suit/rank)
+
+keep players playing by making every game 'async', so players can decide to 'cash in' or out individual streets, this way also will keep players playing longer because they are prone to stay even after a very big win because they still are in other streets playing/active etc etc
 
 **make incremental stages so win (and loss) is endless**
 
