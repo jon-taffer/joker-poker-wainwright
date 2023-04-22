@@ -9,10 +9,15 @@ the idea was born few hours ago i got nobody to make it together with or for so 
 
 please note best prolly is to make close to solitaire experience, by making on win option to bet again, so it drags on or actual makes u 'hold' games, also to familiarize people, you could make games being able to shoe (like 3card poker) mixed in, or for example make it look more reconizable to solitaire for newer players by making 'holded games' (gamble/risk) actually stack cards overlayed on each other like (just showing suit/rank)
 
+## game screen
+![](poker_game.png)
+
+
+
+**bonuses**
 keep players playing by making every game 'async', so players can decide to 'cash in' or out individual streets, this way also will keep players playing longer because they are prone to stay even after a very big win because they still are in other streets playing/active etc etc.
 
 //
-**bonuses**
 super jackpots (to go around legislation on max. multiplier payouts if to put in offline casino solution) can be based on hand rankings (get 3x flush spades in a row, win 5x in same street), but also and so on. 
 
 there is option to make 'increased jokers' for extra payment for each bet (similar to slotmachines that have a modifier to increase your chances on bonus game, you could for example make it so it places more jokers if a joker game is hit)
@@ -36,9 +41,6 @@ it's used so much and is reconizable, also cause it's old mascotte/character it 
 
 #### game speed
 needs be fast asf, probably also hotkey instead of dragging card to acetraps/holders or even key pressed on offline videopoker
-
-# screenshot
-![](poker_game.png)
 
 # example animation
 
