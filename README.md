@@ -4,7 +4,9 @@ i got no clue on how to calculate rtp cause i'm being bullied by a 60 year old m
 
 please note best prolly is to make real solitaire experience, by making on win option to bet again, so it drags on or actual makes u 'hold' games
 
-### game speed
+**make incremental stages so win (and loss) is endless**
+
+#### game speed
 needs be fast asf, probably also hotkey instead of dragging card to acetraps/holders or even key pressed on offline videopoker
 
 # screenshot
@@ -14,12 +16,10 @@ needs be fast asf, probably also hotkey instead of dragging card to acetraps/hol
 Video in streaming service: [streamable](https://streamable.com/uglo8g)
 Video in here: [joker_david.webm](joker_david.webm)
 
-## from the makers of Caesar David
+#### from the makers of Caesar David
 [streamable](https://streamable.com/4zpzzy) or [download .mp4](https://github.com/martijn-martens/memories/blob/main/caesardavid-2.mp4)
 
-## make incremental stages so win (and loss) is endless
-
-### sponsored by
+#### sponsored by
 soon available on the next amino ARIA and in every TAFFER venue!
 
 ![](https://shop-jontaffer-com.3dcartstores.com/assets/images/thumbnails/Raise%20the%20Bar%20Cover_thumbnail.jpg)
