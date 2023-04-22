@@ -16,11 +16,13 @@ needs be fast asf, probably also hotkey instead of dragging card to acetraps/hol
 # example animation
 
 gif and a vid:
-
-
 ![example gif](example-animation.gif)
 
 ## Video in streaming service: [streamable](https://streamable.com/uglo8g) / local: [joker_david.webm](joker_david.webm)
+
+
+## __VERY IMPORTANT THIS IS ONLY PRE BONUS GAME, BUT IDEAS ARE ENDLESS, BUT IN MY OPINION SHOULD MAKE IT AS CLOSE TO SOLITAIRE, THAT MEANS "CONTINUE" BETS (gamble/risk) AND THEN TO ACTUALLY HOLD YOUR WHOLE CURRENT WINS INSTEAD OF INDIVIDUAL CARDS HOLDING/SHOE'ING__
+
 
 #### from the makers of: Age of David
 
