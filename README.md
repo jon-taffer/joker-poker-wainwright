@@ -25,11 +25,7 @@ gif and a vid:
 
 
 #### from the makers of: Age of David
-
-Caesar David trailer:
-[streamable](https://streamable.com/4zpzzy) or [download .mp4](https://github.com/martijn-martens/memories/blob/main/caesardavid-2.mp4)
-
-![dave](ageofdavid.png)
+[![Alt text](https://streamable.com/4zpzzy)](ageofdavid.png)
 
 
 #### sponsored by
