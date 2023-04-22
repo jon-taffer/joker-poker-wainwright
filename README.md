@@ -1,7 +1,5 @@
-## joker poker
-beat the biggest joke within casino industry
+# joker poker: beat the biggest joke within casino industry
 
-## idea
 i got no clue on how to calculate rtp cause i'm being bullied by a 60 year old man from warren farm in u.k. (m8 of ralph hamers/martijn van horssen/credit suisse)
 
 please note best prolly is to make real solitaire experience, by making on win option to bet again, so it drags on or actual makes u 'hold' games
@@ -9,13 +7,13 @@ please note best prolly is to make real solitaire experience, by making on win o
 ![](poker_game.png)
 
 
-
-## game speed
-needs be fast asf, probably also hotkey instead of dragging card to acetraps/holders or even key pressed on offline videopoker
-
+# check video (example)
 Video in streaming service: [streamable](https://streamable.com/uglo8g)
 Video in here: [joker_david.webm](joker_david.webm)
 
+
+## game speed
+needs be fast asf, probably also hotkey instead of dragging card to acetraps/holders or even key pressed on offline videopoker
 
 soon available on the next amino ARIA and in every TAFFER venue!
 
