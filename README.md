@@ -1,7 +1,7 @@
 # joker poker: meet & beat the biggest joke within casino industry
 ![](david.png)
 
-i got no clue on how to calculate rtp cause i'm being bullied by a 60 year old man from warren farm in u.k. (m8 of ralph hamers/martijn van horssen/credit suisse)
+i got no clue on how to calculate rtp cause i'm being bullied by a 60 year old man from warren farm in u.k. 
 
 please note best prolly is to make real solitaire experience, by making on win option to bet again, so it drags on or actual makes u 'hold' games
 
@@ -32,7 +32,5 @@ gif and a vid:
 soon available on the next amino ARIA and in every TAFFER venue!
 
 ![](https://shop-jontaffer-com.3dcartstores.com/assets/images/thumbnails/Raise%20the%20Bar%20Cover_thumbnail.jpg)
-
-&& 24i.com / mollie
 
 
