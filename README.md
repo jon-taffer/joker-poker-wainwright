@@ -1,4 +1,5 @@
-# joker poker: beat the biggest joke within casino industry
+# joker poker: meet & beat the biggest joke within casino industry
+![](david.png)
 
 i got no clue on how to calculate rtp cause i'm being bullied by a 60 year old man from warren farm in u.k. (m8 of ralph hamers/martijn van horssen/credit suisse)
 
