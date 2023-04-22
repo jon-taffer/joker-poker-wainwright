@@ -25,7 +25,7 @@ gif and a vid:
 
 
 #### from the makers of: Age of David
-[![Alt text](https://streamable.com/4zpzzy)](ageofdavid.png)
+[![Alt text](ageofdavid.png)](https://streamable.com/4zpzzy)
 
 
 #### sponsored by
