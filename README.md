@@ -45,8 +45,9 @@ gif and a vid:
 ## Video in streaming service: [streamable](https://streamable.com/uglo8g) / local: [joker_david.webm](joker_david.webm)
 
 
-#### __VERY IMPORTANT THIS IS ONLY PRE BONUS GAME, BUT IDEAS ARE ENDLESS, BUT IN MY OPINION SHOULD MAKE IT AS CLOSE TO SOLITAIRE, THAT MEANS "CONTINUE" BETS (gamble/risk) AND THEN TO ACTUALLY HOLD YOUR WHOLE CURRENT WINS INSTEAD OF INDIVIDUAL CARDS HOLDING/SHOE'ING__
+#### __VERY IMPORTANT THIS IS ONLY PRE BONUS GAME, BUT IDEAS ARE ENDLESS__
 
+Bonus game could be compared maybe with the classic "money bag" respin feature like in [this example](https://www.youtube.com/watch?v=N5kBoTXeCSk). As hitting jokers will continue the feature
 
 #### from the makers of: Age of David
 [![Alt text](ageofdavid.png)](https://streamable.com/4zpzzy)
